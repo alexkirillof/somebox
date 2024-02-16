@@ -1,0 +1,13 @@
+#root {
+  display: flex;
+  justify-content: center;
+  padding: 2rem;
+  text-align: center;
+  width: 100%;
+  background-color: #eee;
+  min-height: 100vh;
+}
+
+th {
+  vertical-align: middle;
+}
